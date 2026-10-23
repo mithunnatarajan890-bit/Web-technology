@@ -2,7 +2,7 @@
 making web related
 # 🚀 Lumora — Cadet Skyranger
 
-An interactive, cinematic space-themed hero page built with **HTML, CSS, and Vanilla JavaScript**. The project features a fictional space cadet, a glowing planetary horizon, cursor-controlled head movement, and an animated glass helmet.
+An interactive, cinematic space-themed hero page built with **HTML, CSS, and Vani lla JavaScript**. The project features a fictional space cadet, a glowing planetary horizon, cursor-controlled head movement, and an animated glass helmet.
 
 ## ✨ Features
 
